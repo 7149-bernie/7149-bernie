@@ -1,1 +1,2 @@
 # 7149-bernie
+Named in honor of Dr. Hans-Heinrich "Bernie" Bernstein (b. 1953), senior astronomer at the Astronomisches Rechen-Institut in Heidelberg. He analyzed pulse-timing data on pulsars and was instrumental in developing an algorithm for the detection of astrometric binaries with ESA's satellite HIPPARCOS. He detected 110 new double-star systems, together with a few brown-dwarf candidates. Bernstein is an expert in numerical mathematics, with many special applications in astrometry.
